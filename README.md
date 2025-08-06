@@ -2,6 +2,7 @@
 # 🏠 RENTINEL - Rental Property Manager
 
 **Rentinel** is a full-stack web-based rental property management system designed to help landlords efficiently manage tenants, rent payments, and track earnings. The system automates reminders for overdue payments, supports real-time online rent collection via **Stripe**, and sends **email alerts** to tenants when rent is pending.
+Look for rentinel.mp4 file to watch the system working
 
 ---
 
